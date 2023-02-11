@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>getOrganitationInformationTestNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b61ff754-45d1-4f69-826f-c75458937efd</testCaseGuid>
+</TestCaseEntity>
